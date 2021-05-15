@@ -1,0 +1,4 @@
+
+chmod a+x ~ ~/www/images/paperimgs 
+
+chmod a+r ~/www/images/paperimgs/*
